@@ -13,8 +13,7 @@ from datetime import datetime
 # how many papers are left to mark. This is then compiled into a static html file, and uploaded to
 # server where the results can be seen.
 # This functionality does not exist in SRCapture, so it might help with users
-# trying to organise a hoarde of markers.
-# no warranty, no license, software taken as is. Enjoy :)
+# trying to organise a hoarde of markers. Enjoy :)
 
 url_login = "https://cloud2.srcapture.com/src/Login#/"
 url_check = "https://cloud2.srcapture.com/src/App#/usertask/list/"
